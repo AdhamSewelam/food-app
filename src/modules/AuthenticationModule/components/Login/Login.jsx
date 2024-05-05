@@ -40,7 +40,7 @@ toast.error(error.response.data.message);
           <img src={logo} alt="" className='w-50' />
           </div>
           <div className="form-content container px-5">
-            <h3>Log Innnnn</h3>
+            <h3>Log Innnnnnnn</h3>
             <p className=' text-muted'>Welcome Back! Please enter your details</p>
             {/* Form */}
             <form onSubmit={handleSubmit(onSubmit)}>
