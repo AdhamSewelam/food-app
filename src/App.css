@@ -1,0 +1,48 @@
+/* Global auth */
+.auth-container{
+    background-image: url(./assets/img/authBg.png);
+    background-position: center center;
+    background-size: cover;
+   
+}
+.bg-overlay{
+    background: linear-gradient(51.22deg, rgba(47, 140, 96, 0.63) -22.39%, rgba(0, 0, 0, 0.6237) 61.76%);
+
+}
+/* SideBar */
+.sidebar-container .ps-sidebar-container{
+    color: white;
+    height: 100vh;
+    background-color:  rgba(31, 38, 62, 1);
+border-top-right-radius: 10%;
+}
+.sidebar-container .ps-sidebar-container .ps-menu-button:hover{
+    background-color: rgba(0, 146, 77, 0.1);
+}
+
+/* Page Not Found */
+
+.NotHeading{
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+}
+.NotPrag{
+    font-family: Inter;
+font-size: 32px;
+font-weight: 400;
+color: rgba(0, 146, 71, 1);
+}
+.NotPrag1{
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+
+}
+/* Header */
+.header-container{
+    background-image: url(./assets/img/header-bg-svg.svg);
+    background-position: center center;
+    background-size: cover;
+    color: white;
+}
